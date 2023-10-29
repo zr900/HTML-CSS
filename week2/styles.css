@@ -46,6 +46,9 @@ li { color: white;
      font-size: 20px;
      font-weight: bold;
 }
+a {
+    color: white;
+}
 
 .fave{
     color: orangered;
